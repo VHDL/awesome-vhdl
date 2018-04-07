@@ -70,6 +70,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Frameworks for Verification.*
 
+* [Open Source VHDL Verification Methodology (OSVVM)](https://github.com/OSVVM/OSVVM)
 
 
 
