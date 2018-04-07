@@ -101,6 +101,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Simulators
 
+* [GHDL](https://github.com/ghdl/ghdl) - A free and open source VHDL simulator supporting VHDL-87/93/2002/2008.
+
 
 ## Package Managers
 
