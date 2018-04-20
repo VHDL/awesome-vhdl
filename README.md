@@ -70,6 +70,7 @@ A curated list of awesome VHDL IP cores, frameworks, libraries, software and res
 ## Verification Frameworks
 
 *Frameworks for Verification.*
++* [Universal VHDL Verification Methodology (UVVM)](https://github.com/UVVM/UVVM)
 
 
 
