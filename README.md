@@ -104,6 +104,8 @@ A curated list of awesome VHDL IP cores, frameworks, libraries, software and res
 
 ## Simulators
 
+* [GHDL](https://github.com/ghdl/ghdl) - A free and open source VHDL simulator supporting VHDL-87/93/2002/2008.
+
 
 ## Package Managers
 
