@@ -13,6 +13,7 @@ A curated list of awesome VHDL IP cores, frameworks, libraries, software and res
 - [Libraries](#libraries)
     - [IP Core Libraries](#ip-core-libraries)
     - [IP Core Collections](#ip-core-collections)
+    - [Utilities](#collections-of-utilities)
 - [IP Cores](#ip-cores)
 - [Frameworks](#frameworks)
     - [Verification Frameworks](#verification-frameworks)
@@ -55,8 +56,11 @@ A curated list of awesome VHDL IP cores, frameworks, libraries, software and res
 
 *Collections containing multiple IP cores.*
 
+## Collections of Utilities
 
+*Collections with various utility functions*
 
+* [libv](https://github.com/martinjthompson/libv) - a library of free, open source functions such as assert with reporting, time/frequency conversion, 
 
 # IP Cores
 
