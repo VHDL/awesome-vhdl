@@ -146,6 +146,7 @@ A curated list of awesome VHDL IP cores, frameworks, libraries, software and res
 *List of lists.*
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-hdl](https://github.com/drom/awesome-hdl)
 
 
 
