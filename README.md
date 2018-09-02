@@ -1,11 +1,12 @@
+[![CC0 - Public Domain](https://img.shields.io/github/license/vhdl/awesome-vhdl.svg)](https://github.com/VHDL/awesome-vhdl/blob/master/LICENSE.md)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 --------------------------------------------------------------------------------
 
 # Awesome VHDL
 
 A curated list of awesome VHDL IP cores, frameworks, libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 **Table of content:**
 
@@ -71,6 +72,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Frameworks for Verification.*
 
 * [Open Source VHDL Verification Methodology (OSVVM)](https://github.com/OSVVM/OSVVM)
+* [Universal VHDL Verification Methodology (UVVM)](https://github.com/UVVM/UVVM)
+
 
 
 
@@ -102,6 +105,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Simulators
 
+* [GHDL](https://github.com/ghdl/ghdl) - A free and open source VHDL simulator supporting VHDL-87/93/2002/2008.
+
 
 ## Package Managers
 
@@ -126,9 +131,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ## Books
 
 
-## Podcasts
-
-
 ## Twitter
 
 
@@ -145,6 +147,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *List of lists.*
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-hdl](https://github.com/drom/awesome-hdl)
 
 
 
@@ -158,16 +161,15 @@ awesome, you could [vote for them](https://github.com/vhdl/awesome-vhdl/pulls)
 by adding :+1: to them. Pull requests will be merged when their votes reach **10**.
 
 
+
+
+# License
+
+[Creative Commons](https://creativecommons.org/) - [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed)
+
+
 --------------------------------------------------------------------------------
 
 If you have any question about this opinionated list, do not hesitate to contact
 me [@PaebbelsLemmi](https://twitter.com/PaebbelsLemmi) on Twitter or open an [issue](https://github.com/VHDL/awesome-vhdl/issues/new)
 on GitHub.
-
-
-
-
-
-# License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
