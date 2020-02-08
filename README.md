@@ -5,7 +5,7 @@
 
 # Awesome VHDL
 
-A curated list of awesome VHDL IP cores, frameworks, libraries, software and resources.
+A curated list of awesome VHDL IP cores, frameworks, libraries, software and related resources.
 
 
 **Table of content:**
